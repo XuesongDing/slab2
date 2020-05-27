@@ -2,3 +2,11 @@ knot_no: 5.0
 kdeg: 1.0 
 knot_no: 5.0 
 kdeg: 1.0 
+knot_no: 5.0 
+kdeg: 1.0 
+knot_no: 5.0 
+kdeg: 1.0 
+knot_no: 3.0 
+kdeg: 1.0 
+knot_no: 3.0 
+kdeg: 1.0 
